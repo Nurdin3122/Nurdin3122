@@ -47,13 +47,10 @@ I specialize in building efficient web applications, solving complex problems, a
 ---
 
 ### 🤝 **Connect with Me:**
-<div align="center">
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/nurdin-%D0%BCuhtarov312/)  
-![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/nurdin_m)  
-![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:nurdinmuhtarovv@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurdin-%D0%BCuhtarov312/)  
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nurdin_m)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurdinmuhtarovv@gmail.com)
 
 ---
 
