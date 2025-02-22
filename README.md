@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Nurdin and I'm a Full Stack Developer 
+# 👋 Hi! I'm Nurdin and I'm a Full Stack Developer
 
 I'm a Full Stack developer with experience in **TypeScript**, **React**, **Next.js**, **Express**, and **Nest.js**.  
 I specialize in building efficient web applications, solving complex problems, and quickly adapting to new technologies.
@@ -17,14 +17,13 @@ I specialize in building efficient web applications, solving complex problems, a
 ---
 
 ### 📈 **My GitHub Stats:**
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin3122&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block"/>
-
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurdin3122&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block" height="400px" width="400px"/>
-  <img src="https://streak-stats.demolab.com?user=Nurdin3122&theme=radical&date_format=%5BY.%5Dn.j" alt="GitHub Streak" style="display: inline-block" height="400px" width="400px"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurdin3122&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin3122&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?Nurdin3122=your-username&theme=radical&date_format=%5BY.%5Dn.j)
+
 </div>
 
 ---
