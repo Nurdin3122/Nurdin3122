@@ -22,7 +22,7 @@ I specialize in building efficient web applications, solving complex problems, a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurdin3122&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurdin3122&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block" height="200px" width="200px"/>
   <img src="https://streak-stats.demolab.com?user=Nurdin3122&theme=radical&date_format=%5BY.%5Dn.j" alt="GitHub Streak" style="display: inline-block"/>
 </div>
 
