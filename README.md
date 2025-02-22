@@ -19,15 +19,14 @@ I specialize in building efficient web applications, solving complex problems, a
 ### 📈 **My GitHub Stats:**
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurdin3122&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin3122&layout=compact&theme=radical)
-
 <div align="center">
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nurdin3122&theme=radical&date_format=%5BY.%5Dn.j)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurdin3122&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin3122&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block;"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nurdin3122&theme=radical&date_format=%5BY.%5Dn.j" alt="GitHub Streak"/>
+</div>
 ---
 
 ### 🛠️ **Technologies and Tools:**
