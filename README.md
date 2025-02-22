@@ -18,11 +18,9 @@ I specialize in building efficient web applications, solving complex problems, a
 
 ### 📈 **My GitHub Stats:**
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurdin3122&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin3122&layout=compact&theme=radical)
-
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin3122&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurdin3122&show_icons=true&theme=radical" alt="GitHub Stats" height="200" style="margin-left: 10px"/>
 </div>
 
 ---
@@ -47,8 +45,11 @@ I specialize in building efficient web applications, solving complex problems, a
 
 ### 🤝 **Connect with Me:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurdin-%D0%BCuhtarov312/)  
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nurdin_m)  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurdin-%D0%BCuhtarov312/) 
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nurdin_m)
+
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurdinmuhtarovv@gmail.com)
 
 ---
