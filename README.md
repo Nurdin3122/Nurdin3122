@@ -1,4 +1,4 @@
-# 👋 Hi! I'm a Full Stack Developer
+# 👋 Hi! I'm Nurdin and I'm a Full Stack Developer 
 
 I'm a Full Stack developer with experience in **TypeScript**, **React**, **Next.js**, **Express**, and **Nest.js**.  
 I specialize in building efficient web applications, solving complex problems, and quickly adapting to new technologies.
