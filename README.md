@@ -1,20 +1,60 @@
-# Привет! 👋 Меня зовут [Твое имя]
+# 👋 Hi! I'm a Full Stack Developer
 
-## 🚀 О себе
-- 🌱 Сейчас изучаю: **React, TypeScript**
-- 💼 Ищу возможности для работы в веб-разработке
-- 🎓 Учусь в Bellevue College
-- 📫 Связаться со мной: [email@example.com](mailto:email@example.com)
+I'm a Full Stack developer with experience in **TypeScript**, **React**, **Next.js**, **Express**, and **Nest.js**.  
+I specialize in building efficient web applications, solving complex problems, and quickly adapting to new technologies.
 
-## 🛠️ Технологии и инструменты:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+---
 
-## 📈 Статистика GitHub:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+### 🚀 **About Me:**
 
-## 📫 Где меня найти:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourprofile)
+- 💻 Developing high-performance and user-friendly interfaces
+- 🌐 Designing reliable server-side APIs and working with databases
+- 🎨 Proficient in **TypeScript** and modern UI libraries (**Material-UI**, **ShadCN**, **Ant Design**)
+- 🛠️ Experienced with **Redux (RTK)** and DevOps processes (**Jenkins**, **Git**)
+- 🧪 Skilled in automated testing (**CodeceptJS**, **Puppeteer**)
+- 🧠 Eager to take on challenging technical tasks and propose optimal solutions
+
+---
+
+### 📈 **My GitHub Stats:**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurdin3122&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin3122&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Nurdin3122&theme=radical&date_format=%5BY.%5Dn.j)
+
+</div>
+
+---
+
+### 🛠️ **Technologies and Tools:**
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 🤝 **Connect with Me:**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourprofile)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
+
+---
+
+### 💡 **Open to New Opportunities!**
+
+I'm looking for a position in a dynamic team where I can contribute, develop my skills, and work on ambitious projects.  
+If you have exciting opportunities — feel free to reach out!  
