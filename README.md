@@ -18,12 +18,9 @@ I specialize in building efficient web applications, solving complex problems, a
 
 ### 📈 **My GitHub Stats:**
 
-<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurdin3122&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin3122&layout=compact&theme=radical)  
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin3122&layout=compact&theme=radical)
 
 <div align="center">
  
