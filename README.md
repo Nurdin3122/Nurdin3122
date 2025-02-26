@@ -38,6 +38,13 @@ I specialize in building efficient web applications, solving complex problems, a
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-005571?style=for-the-badge&logo=rest&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![CodeceptJS](https://img.shields.io/badge/-CodeceptJS-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=white)
+![Shadcn](https://img.shields.io/badge/-Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white)
 
 </div>
 
